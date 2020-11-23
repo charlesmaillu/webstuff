@@ -3,6 +3,7 @@
 #### By **{List of contributors}**
 ## Description
 {This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }
+ <a href="https://www.bbc.co.uk/newsround/49490106"><img src="https://ichef.bbci.co.uk/news/800/cpsprodpb/EB3E/production/_108522206_gettyimages-1142653052.jpg" alt="baby elephant" srcset=""></a>
 ## Setup/Installation Requirements
 * This is a great place
 * to list setup instructions
